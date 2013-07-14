@@ -1,0 +1,9 @@
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\TestProject1\bin\Debug\EntityFramework.dll
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\TestProject1\bin\Debug\PollingServ.dll
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\TestProject1\bin\Debug\PollingServ.pdb
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\TestProject1\bin\Debug\EntityFramework.xml
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\TestProject1\obj\Debug\TestProject1.pdb

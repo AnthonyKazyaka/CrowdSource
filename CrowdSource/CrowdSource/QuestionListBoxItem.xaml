@@ -1,0 +1,17 @@
+﻿<Button x:Class="CrowdSource.QuestionListBoxItem"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}" BorderBrush="{x:Null}" Background="#99000000" Padding="20,5,15,7" BorderThickness="0" Height="80" Width="382" >
+    
+    <Grid x:Name="LayoutRoot" >
+    	<TextBlock x:Name="QuestionTextOverview" Height="Auto" TextWrapping="NoWrap" Text="TextBlock" VerticalAlignment="Top" FontWeight="Bold"/>
+    	<TextBlock x:Name="Categories" Height="Auto" Margin="0,35,0,0" TextWrapping="NoWrap" Text="TextBlock" VerticalAlignment="Top" Visibility="Collapsed"/>
+    	<!--<Button x:Name="TopButton" Content="Button" Margin="0,0,0,0" Opacity="0" BorderThickness="0"/>-->
+ 
+    </Grid>
+</Button>

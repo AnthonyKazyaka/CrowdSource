@@ -1,0 +1,30 @@
+c:\users\smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\bin\PollingServ.dll
+c:\users\smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\bin\PollingServ.pdb
+c:\users\smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\bin\EntityFramework.dll
+c:\users\smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\bin\EntityFramework.xml
+c:\users\smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\obj\Debug\ResolveAssemblyReference.cache
+c:\users\smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\obj\Debug\PollingServ.dll
+c:\users\smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\obj\Debug\PollingServ.pdb
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\bin\Microsoft.Web.Mvc.dll
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\bin\MvcContrib.dll
+C:\Users\Smoore\documents\visual studio 2010\Projects\PollingServ\PollingServ\bin\MvcContrib.xml
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\bin\PollingServ.dll
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\bin\PollingServ.pdb
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\bin\EntityFramework.dll
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\bin\Microsoft.Web.Mvc.dll
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\bin\MvcContrib.dll
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\bin\EntityFramework.xml
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\bin\MvcContrib.xml
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\obj\Debug\ResolveAssemblyReference.cache
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\obj\Debug\PollingServ.dll
+C:\ServerSVN\CrowdSourceServerDev\PollingServ\obj\Debug\PollingServ.pdb
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\obj\Debug\PollingServ.pdb
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\bin\PollingServ.dll
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\bin\PollingServ.pdb
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\bin\EntityFramework.dll
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\bin\Microsoft.Web.Mvc.dll
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\bin\MvcContrib.dll
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\bin\EntityFramework.xml
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\bin\MvcContrib.xml
+C:\Users\moore\Documents\VisualStudio2010\Projects\PollingServ\PollingServ\obj\Debug\PollingServ.dll
