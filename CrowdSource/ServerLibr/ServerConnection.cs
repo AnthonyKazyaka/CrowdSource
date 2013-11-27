@@ -14,6 +14,9 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 using ServerLibr;
+using System.Threading;
+using System.Windows;
+using System.Windows.Threading;
 
 namespace ServerLibr
 {
@@ -86,10 +89,11 @@ namespace ServerLibr
 
             xRoot.ElementName = rootElementName;
             xRoot.IsNullable = true;
-
+            
             XmlStreamAtt XmlData = new XmlStreamAtt() { documentReader = docReader, xroot = xRoot };
 
             XmlSerializer deserializer = new XmlSerializer(typeof(XmlAuthor), XmlData.xroot);
+            XmlData.documentReader.Read();
             XmlData.documentReader.Read();
             XmlData.documentReader.Read();
             string inn = XmlData.documentReader.ReadOuterXml();
@@ -98,7 +102,10 @@ namespace ServerLibr
             XmlAuthor author = (XmlAuthor)deserializer.Deserialize(XmlData.documentReader);
 
             // store Author
-            callBackDelegate(author);
+            Deployment.Current.Dispatcher.BeginInvoke(() =>
+                {
+                    callBackDelegate(author);
+                });
         }
 
         /*/// <summary>
