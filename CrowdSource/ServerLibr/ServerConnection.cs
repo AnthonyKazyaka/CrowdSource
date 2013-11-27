@@ -92,6 +92,7 @@ namespace ServerLibr
             XmlSerializer deserializer = new XmlSerializer(typeof(XmlAuthor), XmlData.xroot);
             XmlData.documentReader.Read();
             XmlData.documentReader.Read();
+            XmlData.documentReader.Read();
             string inn = XmlData.documentReader.ReadOuterXml();
             XmlData.documentReader = XmlReader.Create(new StringReader(inn));
 
