@@ -37,12 +37,12 @@ namespace ServerLibr
         //private static string auth_user = "AKazyaka";
         //private static string auth_pass = "heavensgate"; 
 
-        private static string auth_user = "smoore";
-        private static string auth_pass = "phyisalis"; 
+        private static string auth_user = "k7077770";
+        private static string auth_pass = "Ozw7DzL@Rgy!D7"; 
 
         // change once we have domain + static IP
         //private static string service_url_root = "http://72.44.101.239/CrowdSpark/";
-        private static string service_url_root = @"http://127.0.0.1/Data/";
+        private static string service_url_root = @"http://steamhatch.com/crowdsource/Data/";
         //private static string service_url_root = "http://google.com";
 
         static WebRequest request;
